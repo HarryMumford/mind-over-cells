@@ -1,10 +1,10 @@
 [![Build Status](https://travis-ci.org/Hyan18/the-css.svg?branch=master)](https://travis-ci.org/Hyan18/the-css)
 
-# The-CSS
+# Mind Over Cells
 
 Check out the deployed app [here](https://the-css.herokuapp.com/)
 
-Cellular Automata - single player game, evolution dependant on initial state. Using Conway's game of life you can solve puzzles on a single page web app.
+Cellular Automata - single player game, evolution dependent on initial state. Using Conway's game of life you can solve puzzles on a single page web app.
 
 ## Getting Started
 
