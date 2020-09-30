@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/Hyan18/the-css.svg?branch=master)](https://travis-ci.org/Hyan18/the-css)
-[![Maintainability](https://api.codeclimate.com/v1/badges/a82bed84d0c95cae9565/maintainability)](https://codeclimate.com/github/Hyan18/the-css/maintainability)
 
 # The-CSS
 
@@ -70,26 +69,22 @@ I want to be able to click on a cell to set it's state
 
 ## Built With
 
-* [MongoDB](https://mongodb.com) - The database
-* [Express](https://expressjs.com/) - The backend server
-* [React](https://reactjs.org/) - The frontend framework
-* [Node](https://nodejs.org/) - The backend environment
+- [MongoDB](https://mongodb.com) - The database
+- [Express](https://expressjs.com/) - The backend server
+- [React](https://reactjs.org/) - The frontend framework
+- [Node](https://nodejs.org/) - The backend environment
 
 ## Authors
 
-* **[Dawid Szpener](https://github.com/DawidSzpener)**
+- **[Dawid Szpener](https://github.com/DawidSzpener)**
 
+- **[Harrison Yan](https://github.com/Hyan18)**
 
-* **[Harrison Yan](https://github.com/Hyan18)**
+- **[Harry Mumford](https://github.com/HarryMumford)**
 
+- **[Jamie Wong](https://github.com/Jamie95187)**
 
-* **[Harry Mumford](https://github.com/HarryMumford)**
-
-
-* **[Jamie Wong](https://github.com/Jamie95187)**
-
-
-* **[Alastair Gilles](https://github.com/ffgi-es)**
+- **[Alastair Gilles](https://github.com/ffgi-es)**
 
 ## License
 
@@ -97,9 +92,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Cheers Conway for inspiring us to build this beautiful project.
-* etc
-
-<p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/145qmP7.png">
-</p>
+- Cheers Conway for inspiring us to build this beautiful project.
+- etc
