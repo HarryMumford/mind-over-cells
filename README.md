@@ -103,7 +103,7 @@ To run the jest/enzyme tests for React, the jest/supertest tests for Express and
 
 $ yarn run test
 $ yarn run coverage-server
-\$ yarn run coverage-client
+$ yarn run coverage-client
 
 ```
 
