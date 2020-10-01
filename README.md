@@ -27,7 +27,7 @@ Using these added features users can create their own games. For example, given 
 
 Checkout our hosted website [here](https://the-css.herokuapp.com/).
 
-![](./assets/)
+![](./assets/demo.gif)
 
 ## Approach
 
@@ -89,6 +89,7 @@ For local development:
 $ git clone git@github.com:Hyan18/the-css.git
 $ yarn install
 $ yarn --cwd client install
+```
 
 ## How to Run the app
 
@@ -110,18 +111,17 @@ To run the linter:
 
 `$ yarn run lint`
 
-
 ## Authors
 
-- **[Dawid Szpener](https://github.com/DawidSzpener)**
+- [Dawid Szpener](https://github.com/DawidSzpener)
 
-- **[Harrison Yan](https://github.com/Hyan18)**
+- [Harrison Yan](https://github.com/Hyan18)
 
-- **[Harry Mumford](https://github.com/HarryMumford)**
+- [Harry Mumford](https://github.com/HarryMumford)
 
-- **[Jamie Wong](https://github.com/Jamie95187)**
+- [Jamie Wong](https://github.com/Jamie95187)
 
-- **[Alastair Gilles](https://github.com/ffgi-es)**
+- [Alastair Gilles](https://github.com/ffgi-es)
 
 ## License
 
@@ -131,4 +131,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 - Cheers Conway for inspiring us to build this beautiful project.
 - etc
-```
